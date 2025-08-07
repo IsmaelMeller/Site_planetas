@@ -118,9 +118,7 @@ p {
     cursor: pointer;
     }
 
- /* pag saturno */
-
- .saturno_titulo {
+     .titulo_planetas {
 
     font-size: 40px;
     margin: 0;
@@ -130,6 +128,8 @@ p {
     align-items: center;
 
  }
+
+ /* pag saturno */
 
  .saturnoimg {
 
@@ -168,3 +168,22 @@ p {
     justify-content: right;
     align-items: center;
 }
+
+ /* pag jupiter */
+
+
+  .jupiterimg {
+
+    width: 1400px;
+    height: auto;
+
+ }
+
+ /* pag jupiter */
+
+ .uranoimg {
+
+    width: 1500px;
+    height: auto;
+     
+ }
